@@ -1,2 +1,2 @@
 # exercism.io
-Solving [exercism.io](http://exercism.io/) practice problems.
+Solving [exercism.io](http://exercism.io/) practice exercises.
